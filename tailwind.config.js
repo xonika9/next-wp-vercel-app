@@ -10,6 +10,7 @@ module.exports = {
         'accent-1': '#FAFAFA',
         'accent-2': '#EAEAEA',
         'accent-7': '#333',
+        footer: '#f2f8fd',
         success: '#0070f3',
         cyan: '#79FFE1',
       },
@@ -35,4 +36,4 @@ module.exports = {
     },
   },
   plugins: [],
-}
+};
